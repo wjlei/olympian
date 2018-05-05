@@ -1,0 +1,8 @@
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\bin\Debug\HttpServer.exe.config
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\bin\Debug\HttpServer.exe
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\bin\Debug\HttpServer.pdb
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\bin\Debug\HttpServerLib.dll
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\bin\Debug\HttpServerLib.pdb
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\obj\Debug\HttpServer.exe
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HTTPServer\obj\Debug\HttpServer.pdb

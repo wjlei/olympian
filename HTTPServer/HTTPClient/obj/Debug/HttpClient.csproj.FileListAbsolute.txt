@@ -1,0 +1,6 @@
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpClient\bin\Debug\HttpClient.exe.config
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpClient\bin\Debug\HttpClient.exe
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpClient\bin\Debug\HttpClient.pdb
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpClient\obj\Debug\HttpClient.exe
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpClient\obj\Debug\HttpClient.pdb
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache

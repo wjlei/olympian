@@ -1,0 +1,5 @@
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpServerLib\bin\Debug\HttpServerLib.dll
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpServerLib\bin\Debug\HttpServerLib.pdb
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.dll
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.pdb
+C:\Users\jiweng\Downloads\HttpServer-master\HttpServer-master\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.csprojResolveAssemblyReference.cache
